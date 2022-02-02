@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KristiyanH
 - 👀 I’m interested in ... C# .NET Development
-- 🌱 I’m currently learning ... C#
+- 🌱 I’m currently learning ... C#/ASP.NET
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - kristiyan.a.hristov@gmail.com
 
 <!---
 KristiyanH/KristiyanH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
