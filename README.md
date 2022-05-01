@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://linkedin.com/in/kristiyanh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kristiyanh" height="30" width="40" /></a>
-<a href="https://fb.com/cahristov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cahristov" height="30" width="40" /></a>
-<a href="https://instagram.com/christianhristov1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="christianhristov1" height="30" width="40" /></a>
+<a href="https://gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/71334312/166155676-47be8c47-0690-47ea-94bb-0bc474db9640.png" alt="kristiyan.a.hristov@gmail.com" height="30" width="40" /></a> : kristiyan.a.hristov@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
