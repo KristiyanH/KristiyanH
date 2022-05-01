@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kristiyan</h1>
-<h3 align="center">A passionate student at Software University, specializing for a Full Stack Web Developer</h3>
+<h3 align="center">A passionate student at Software University, specializing for a Full Stack Developer</h3>
 
 <a href="https://softuni.bg" target="_blank" rel="noreferrer"> <img src="https://github.com/KristiyanH/KristiyanH/blob/main/SoftUniLogo.png" alt="css3"/> </a>
 
