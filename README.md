@@ -14,8 +14,6 @@
 | ASP.NET Core | <a href="https://github.com/KristiyanH/KristiyanH/blob/main/ASP.NET%20Core%20-%20February%202022%20-%20Certificate.jpeg">Link</a> |
 | JS Advanced | Soon |
 | JS Applications | Soon |
-| HTML & CSS | Soon |
-| ReactJS | Soon |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
