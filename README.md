@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kristiyan</h1>
-<h3 align="center">A passionate student at Software University</h3>
+<h3 align="center">A passionate student at Software University, specializing for a Full Stack Web Developer</h3>
 
 <a href="https://softuni.bg" target="_blank" rel="noreferrer"> <img src="https://github.com/KristiyanH/KristiyanH/blob/main/SoftUniLogo.png" alt="css3"/> </a>
 
@@ -12,6 +12,10 @@
 | Entity Framework Core | <a href="https://github.com/KristiyanH/KristiyanH/blob/main/Entity%20Framework%20Core%20-%20October%202021%20-%20Certificate.jpeg">Link</a> |
 | C# Web Basics | <a href="https://github.com/KristiyanH/KristiyanH/blob/main/C%23%20Web%20Basics%20-%20January%202022%20-%20Certificate.jpeg">Link</a> |
 | ASP.NET Core | <a href="https://github.com/KristiyanH/KristiyanH/blob/main/ASP.NET%20Core%20-%20February%202022%20-%20Certificate.jpeg">Link</a> |
+| JS Advanced | Soon |
+| JS Applications | Soon |
+| HTML & CSS | Soon |
+| ReactJS | Soon |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
