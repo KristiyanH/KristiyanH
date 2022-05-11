@@ -28,7 +28,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/ac4b51053d144d71649a762d4a314b01c6b1b8ad2a638f0a51c6ffcec34e77a0/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3231373735332f6769746875622e737667" alt="github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".netcore" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40" height="40"/>
   </a> </p>
+ 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristiyanH&show_icons=true&theme=radical)
