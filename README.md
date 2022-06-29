@@ -12,7 +12,7 @@
 | Entity Framework Core | <a href="https://github.com/KristiyanH/KristiyanH/blob/main/Entity%20Framework%20Core%20-%20October%202021%20-%20Certificate.jpeg">Link</a> |
 | C# Web Basics | <a href="https://github.com/KristiyanH/KristiyanH/blob/main/C%23%20Web%20Basics%20-%20January%202022%20-%20Certificate.jpeg">Link</a> |
 | ASP.NET Core | <a href="https://github.com/KristiyanH/KristiyanH/blob/main/ASP.NET%20Core%20-%20February%202022%20-%20Certificate.jpeg">Link</a> |
-| JS Advanced | Soon |
+| JS Advanced | <a href="https://github.com/KristiyanH/KristiyanH/blob/main/JS%20Advanced%20-%20May%202022%20-%20Certificate.jpeg">Link</a> |
 | JS Applications | Soon |
 
 <h3 align="left">Connect with me:</h3>
