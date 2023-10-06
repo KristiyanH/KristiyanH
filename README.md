@@ -35,6 +35,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original.svg" alt="nuget" width="40" height="40"/>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+  <a href="https://graphql.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://chillicream.com/docs/hotchocolate/v13"> <img src="https://api.nuget.org/v3-flatcontainer/hotchocolate/13.5.1/icon" alt="hotChocolate" width="40" height="40"/> </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
