@@ -39,6 +39,7 @@
   <a href="https://www.mongodb.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://chillicream.com/docs/hotchocolate/v13"> <img src="https://api.nuget.org/v3-flatcontainer/hotchocolate/13.5.1/icon" alt="hotChocolate" width="40" height="40"/> </a>
   <a href="https://www.hangfire.io/"> <img src="https://avatars.githubusercontent.com/u/7880472?s=200&v=4" alt="hangfire" width="40" height="40"/> </a>
+  <a href="https://learn.microsoft.com/en-us/azure/service-fabric/service-fabric-overview"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRisxq16NtuZpcn-YstoUKllTpm_UvfbN1or2_7_5-85eCOiDCqNwOCBl_DG5DXA2PSHfE&usqp=CAU" alt="service-fabric" width="40" height="40"/> </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
